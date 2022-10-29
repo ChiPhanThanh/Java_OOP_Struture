@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Adress/Adress.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Adress/Adress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/CNhanVien/CNhanVien.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/CNhanVien/CNhanVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/CanBo_Basic/CanBo_Basic.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/CanBo_Basic/CanBo_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/CirleArray/CirleArray.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/CirleArray/CirleArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_Alog/DataStructure_Alog.iml" filepath="$PROJECT_DIR$/DataStructure_Alog/DataStructure_Alog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_Alog/DeQuy/DeQuy.iml" filepath="$PROJECT_DIR$/DataStructure_Alog/DeQuy/DeQuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Encapsolution.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Encapsolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/HinhTamGiac/HinhTamGiac.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/HinhTamGiac/HinhTamGiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/HuongDoiTuong.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/HuongDoiTuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/KeThua/KeThua.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/KeThua/KeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/NhanVien/NhanVien.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/NhanVien/NhanVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/SanPham/SanPham.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/SanPham/SanPham.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_Alog/SearchAlogrithms/SearchAlogrithims.iml" filepath="$PROJECT_DIR$/DataStructure_Alog/SearchAlogrithms/SearchAlogrithims.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/SinhVien/SinhVien.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/SinhVien/SinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/SinhVienUML/SinhVienUML.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/SinhVienUML/SinhVienUML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_Alog/SortAlogrithms/SortAlogrithms.iml" filepath="$PROJECT_DIR$/DataStructure_Alog/SortAlogrithms/SortAlogrithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Staff/Staff.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Staff/Staff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringJava/StringJava.iml" filepath="$PROJECT_DIR$/StringJava/StringJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Student/Student.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/Encapsolution/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuongDoiTuong/TInhDienTIchHinhTron/TInhDienTIchHinhTron.iml" filepath="$PROJECT_DIR$/HuongDoiTuong/TInhDienTIchHinhTron/TInhDienTIchHinhTron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chii/chii.iml" filepath="$PROJECT_DIR$/chii/chii.iml" />
+    </modules>
+  </component>
+</project>
