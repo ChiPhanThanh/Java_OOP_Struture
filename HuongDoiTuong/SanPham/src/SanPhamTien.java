@@ -24,7 +24,7 @@ public class SanPhamTien {
     }
 
      private double getThueNhapKhau(){
-        return Gia * 0.1;
+        return Gia - (Gia * 0.1);
     }
 
     public void Nhap(){
@@ -41,9 +41,6 @@ public class SanPhamTien {
         System.out.print(" Ten san pham la:" +Ten+ "\n" );
         System.out.print(" Gia san pham la:"+ Gia + "\n" );
         System.out.print(" Giam Gia san pham la:" + giamGia);
-        System.out.print( "\n"+"Gia con lai "+ getThueNhapKhau());
+        System.out.print( "\n" +"Gia con lai "+ getThueNhapKhau());
     }
-
-
-
 }

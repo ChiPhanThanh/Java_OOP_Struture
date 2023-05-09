@@ -19,7 +19,6 @@ public class Staff {
      public Staff( String maNhanVien, String hoTen, int tuoi){
         this(maNhanVien, hoTen);
         this.tuoi = tuoi;
-
      }
 
      public Staff (String maNhanVien, String hoTen, int tuoi, String soDienThoai){

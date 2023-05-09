@@ -4,7 +4,6 @@ public class NhanVien {
     double Luong;
     public NhanVien( String maNV, int soSP){
         this.maNV = maNV;
-
         if(soSP > 0){
             this.soSP = soSP;
         }else{
@@ -39,11 +38,11 @@ public class NhanVien {
             return false;
         }
     }
-    public String getTongKet(){
+    public boolean getTongKet(){
         if(this.soSP > 500){
-            return "Vuot";
+            return true;
         }else{
-            return "";
+            return false;
         }
      }
 
@@ -65,7 +64,7 @@ public class NhanVien {
     }
 
     public static void main(String [] args){
-        NhanVien nhanvien = new NhanVien("021323420000",700);
+        NhanVien nhanvien = new NhanVien("021323420000",200);
         NhanVien nhanvien2 = new NhanVien("02124354758",300);
         //System.out.print("Kiem tra:" + nhanvien.coVuotChuan() +"\n");
        // System.out.print("Tong ket qua: " + " " +nhanvien.getTongKet() + "\n");
@@ -73,8 +72,5 @@ public class NhanVien {
         System.out.println(xuatTieuDe());
         System.out.println(nhanvien.toString());
         System.out.print(nhanvien2.toString());
-
-
-
     }
 }

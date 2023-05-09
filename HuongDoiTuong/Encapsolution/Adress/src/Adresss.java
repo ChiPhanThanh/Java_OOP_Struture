@@ -16,7 +16,7 @@ public class Adresss {
             this.soNha = soNha;
         }
 
-        public Adress(int soNha, String ngo) {
+        public Adresss(int soNha, String ngo) {
             this(soNha);
             this.ngo = ngo;
         }

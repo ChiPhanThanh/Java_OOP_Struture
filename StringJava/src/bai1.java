@@ -19,6 +19,5 @@ public class bai1 {
             }
         }
         System.out.print(" So lan xuat hien chu c la:" + dem);
-
     }
 }

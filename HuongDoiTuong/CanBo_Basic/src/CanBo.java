@@ -62,5 +62,4 @@ public class CanBo {
         System.out.print(canbo1.Xuat() +"\n");
         System.out.print(canbo1.toString());
     }
-
 }

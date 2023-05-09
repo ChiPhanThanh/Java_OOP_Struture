@@ -1,5 +1,5 @@
 public class HinhTamGiac extends HCN {
-   int c;
+   private int c;
    public void HCN(int c){
        this.c  =c;
    }
@@ -43,6 +43,10 @@ public class HinhTamGiac extends HCN {
     @Override
     public void setB(int b) {
         super.setB(b);
+    }
+
+    public float dientichtamgiac(int a, int b){
+        return this.S = (a * b)+c;
     }
 
 }

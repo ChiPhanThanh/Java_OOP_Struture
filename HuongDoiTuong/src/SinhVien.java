@@ -20,11 +20,13 @@ public class SinhVien {
     }
 
     public void xepLoai(){
-        if(Diem < 8){
-            System.out.print(" Xep loai trung binh duwois 8" );
+        if(Diem > 8){
+            System.out.print(" Xep loai gioi" );
         }else{
-            System.out.print(" Xep loai gioi");
+            System.out.print("Để xét lại kết quả");
         }
     }
+
+
 
 }

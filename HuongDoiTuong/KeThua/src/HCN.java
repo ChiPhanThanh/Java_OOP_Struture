@@ -10,7 +10,6 @@ public class HCN {
         this.a= a;
         this.b = b;
     }
-
     public HCN() {
     }
 
